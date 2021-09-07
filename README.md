@@ -42,8 +42,8 @@ Tablet View
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/stats-preview-card-using-flebox-yCs7sYku8)
-- Live Site URL: [Add live site URL here](https://bmoore15v.github.io/FM-StatsPreviewCard/)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/stats-preview-card-using-flebox-yCs7sYku8)
+- Live Site URL: [Live Site](https://bmoore15v.github.io/FM-StatsPreviewCard/)
 
 ## My process
 
