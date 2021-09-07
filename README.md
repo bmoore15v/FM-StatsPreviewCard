@@ -29,12 +29,15 @@ Users should be able to:
 ### Screenshots
 
 Desktop View
+
 ![](./design/my-images/desktop_view.png)
 
 Mobile View
+
 ![](./design/my-images/mobile_view.png)
 
 Tablet View
+
 ![](./design/my-images/tablet_view.png)
 
 ### Links
