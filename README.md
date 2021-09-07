@@ -42,8 +42,8 @@ Tablet View
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/order-summary-site-using-html-and-custom-css-yiy85qpwR)
-- Live Site URL: [Add live site URL here](https://bmoore15v.github.io/FM-OrderSummaryChallenge/)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/stats-preview-card-using-flebox-yCs7sYku8)
+- Live Site URL: [Add live site URL here](https://bmoore15v.github.io/FM-StatsPreviewCard/)
 
 ## My process
 
